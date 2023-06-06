@@ -1,8 +1,3 @@
-// Arveen Azhand
-// APCS Per 7
-// VisiCalc
-// Checkpoint 9
-
 // helper that inherits from Cell
 public class DateCell extends Cell {
 	int month;
